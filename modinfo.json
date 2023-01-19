@@ -1,0 +1,19 @@
+{
+	"author": "ARES LORD",
+	"build": "116400",
+	"context": "server",
+	"date": "2023-01-19",
+	"display_name": "Plants CSGs SERVER",
+	"description": "Foliage csg, mushrooms, cactuses, for map builders custom maps included",
+	"forum": "https://github.com/ATLASLORD/Platonic_CSG",
+	"identifier": "com.pa.areslord.plantscsg.server",
+	"companions": ["com.pa.areslord.plantscsg.client"],
+  	"dependencies": ["com.pa.areslord.plantscsg.client"],
+	"signature": "not yet implemented",
+	"version": "1.0",
+	"icon": "https://imgur.com/ASI2c6J.png",
+	"category":
+	[
+		"CSG Addon"
+	]
+}
