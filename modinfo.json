@@ -12,7 +12,7 @@
 	"date": "2024-07-27",
 	"companions": ["com.pa.areslord.plantscsg.client"],
   	"dependencies": ["com.pa.areslord.plantscsg.client"],
-	"version": "1.2",
+	"version": "1.2.1",
 	"category":
 	[
 		"titans",
